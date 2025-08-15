@@ -1,0 +1,6 @@
+## Requirements
+- ultralytics
+- transformers
+- sentence-transformers
+- opencv-python
+- matplotlib
